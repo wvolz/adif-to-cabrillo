@@ -1,0 +1,2 @@
+hamutils==0.2.0
+Unidecode==1.1.1
