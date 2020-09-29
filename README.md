@@ -1,4 +1,4 @@
-ADIF to Cabrillo Converter
+# ADIF to Cabrillo Converter
 
 This is a quick script to help convert an ADIF file to Cabrillo.
 
